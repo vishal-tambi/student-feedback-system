@@ -169,11 +169,8 @@ Contributions welcome 🎉
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**
-🌐 [GitHub](https://github.com/vishal-tambi) • 💼 [LinkedIn]((https://www.linkedin.com/in/vishal-tambi-b180b724b)) • 📧 [tambivishal3@gmail.com](mailto:tambivishal3@gmail.com)
-
+## 👨‍💻 Author **Your Name** 
+🌐 [GitHub](https://github.com/vishal-tambi) • 💼 [LinkedIn](https://linkedin.com/in/vishal-tambi-b180b724b/) • 📧 [tambivishal3@gmail.com](mailto:tambivishal3@gmail.com)
 ---
 
 ## ⭐ Support
