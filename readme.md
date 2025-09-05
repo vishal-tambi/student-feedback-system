@@ -74,7 +74,9 @@ Students can rate & review courses 📑, while admins enjoy an analytics-packed 
 
 | Student Dashboard                                         | Analytics View                                    | Admin Panel                                         |
 | --------------------------------------------------------- | ------------------------------------------------- | --------------------------------------------------- |
-| ![Student Dashboard](https://via.placeholder.com/400x200) | ![Analytics](https://via.placeholder.com/400x200) | ![Admin Panel](https://via.placeholder.com/400x200) |
+| ![Student Dashboard]<img width="1904" height="919" alt="Screenshot 2025-09-05 164708" src="https://github.com/user-attachments/assets/232674a5-2e85-427f-9bd1-868b4d8a8991" />| 
+![Analytics]<img width="1919" height="912" alt="Screenshot 2025-09-05 164644" src="https://github.com/user-attachments/assets/f4796607-dd7f-4386-abf7-641b0ccf5b92" />| 
+![Admin Panel]<img width="1899" height="915" alt="Screenshot 2025-09-05 164635" src="https://github.com/user-attachments/assets/86b1016a-e2dc-49fe-a596-dffd1f7dbd39" />|
 
 ---
 
