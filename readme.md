@@ -72,11 +72,9 @@ Students can rate & review courses 📑, while admins enjoy an analytics-packed 
 
 ## 📸 Screenshots
 
-| Student Dashboard                                         | Analytics View                                    | Admin Panel                                         |
-| --------------------------------------------------------- | ------------------------------------------------- | --------------------------------------------------- |
-| ![Student Dashboard]<img width="1904" height="919" alt="Screenshot 2025-09-05 164708" src="https://github.com/user-attachments/assets/232674a5-2e85-427f-9bd1-868b4d8a8991" />| 
-![Analytics]<img width="1919" height="912" alt="Screenshot 2025-09-05 164644" src="https://github.com/user-attachments/assets/f4796607-dd7f-4386-abf7-641b0ccf5b92" />| 
-![Admin Panel]<img width="1899" height="915" alt="Screenshot 2025-09-05 164635" src="https://github.com/user-attachments/assets/86b1016a-e2dc-49fe-a596-dffd1f7dbd39" />|
+| Student Dashboard | Analytics View | Admin Panel |
+| ----------------- | -------------- | ----------- |
+| <img src="https://github.com/user-attachments/assets/232674a5-2e85-427f-9bd1-868b4d8a8991" alt="Student Dashboard" width="400"/> | <img src="https://github.com/user-attachments/assets/f4796607-dd7f-4386-abf7-641b0ccf5b92" alt="Analytics View" width="400"/> | <img src="https://github.com/user-attachments/assets/86b1016a-e2dc-49fe-a596-dffd1f7dbd39" alt="Admin Panel" width="400"/> |
 
 ---
 
