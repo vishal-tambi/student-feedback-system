@@ -1,0 +1,27 @@
+{
+  "name": "student-feedback-system",
+  "version": "1.0.0",
+  "description": "MERN Stack Student Feedback System",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd backend && npm start",
+    "client": "cd frontend && npm run dev",
+    "install-server": "cd backend && npm install",
+    "install-client": "cd frontend && npm install",
+    "install-all": "npm run install-server && npm run install-client",
+    "build": "cd frontend && npm run build",
+    "start": "cd backend && npm start"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "keywords": [
+    "mern",
+    "react",
+    "nodejs",
+    "mongodb",
+    "student-feedback"
+  ],
+  "author": "Vishal Tambi",
+  "license": "MIT"
+}
