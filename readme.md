@@ -1,12 +1,8 @@
-Got it 🚀 — your README is already well-structured, but we can make it more **user-friendly, scannable, and engaging** by adding better visuals, emojis, collapsible sections, quick navigation, and a more conversational flow. Here’s a **revamped, creative version** of your README:
-
----
 
 # 🎓 Student Feedback System
 
 > 🚀 A modern MERN-stack application that lets students share feedback & ratings while giving admins powerful analytics and course management tools.
 
-![Student Feedback Banner](https://via.placeholder.com/1000x300?text=Student+Feedback+System+Banner)
 
 ---
 
@@ -72,9 +68,9 @@ Students can rate & review courses 📑, while admins enjoy an analytics-packed 
 
 ## 📸 Screenshots
 
-| Student Dashboard                                         | Analytics View                                    | Admin Panel                                         |
-| --------------------------------------------------------- | ------------------------------------------------- | --------------------------------------------------- |
-| ![Student Dashboard](https://via.placeholder.com/400x200) | ![Analytics](https://via.placeholder.com/400x200) | ![Admin Panel](https://via.placeholder.com/400x200) |
+| Student Dashboard | Analytics View | Admin Panel |
+| ----------------- | -------------- | ----------- |
+| <img src="https://github.com/user-attachments/assets/232674a5-2e85-427f-9bd1-868b4d8a8991" alt="Student Dashboard" width="400"/> | <img src="https://github.com/user-attachments/assets/f4796607-dd7f-4386-abf7-641b0ccf5b92" alt="Analytics View" width="400"/> | <img src="https://github.com/user-attachments/assets/86b1016a-e2dc-49fe-a596-dffd1f7dbd39" alt="Admin Panel" width="400"/> |
 
 ---
 
@@ -173,11 +169,8 @@ Contributions welcome 🎉
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**
-🌐 [GitHub](https://github.com/vishal-tambi) • 💼 [LinkedIn](https://linkedin.com/in/yourprofile) • 📧 [tambivishal3@gmail.com](mailto:tambivishal3@gmail.com)
-
+## 👨‍💻 Author **Your Name** 
+🌐 [GitHub](https://github.com/vishal-tambi) • 💼 [LinkedIn](https://linkedin.com/in/vishal-tambi-b180b724b/) • 📧 [tambivishal3@gmail.com](mailto:tambivishal3@gmail.com)
 ---
 
 ## ⭐ Support
