@@ -15,7 +15,7 @@ const app = express();
 const corsOptions = {
   origin: [
     'http://localhost:3000',           // Local development
-    'https://student-feedback-system-five.vercel.app',  // frontend URL
+    'https://student-feedback-system-psi.vercel.app',  // frontend URL
   ],
   credentials: true,
   optionsSuccessStatus: 200
